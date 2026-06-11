@@ -17,6 +17,7 @@
 
 - 🔄 En reconversion depuis l'électricité vers l'**administration réseau & systèmes**
 - 🎓 Formation en cours : **Administrateur Réseau & Systèmes** — spécialisation virtualisation & cybersécurité
+- 📚 Dès septembre 2026 : cours du soir en **Cybersécurité** à l'**IFAPME**
 - 🏠 Je maintiens un **homelab Proxmox** complet avec 7 conteneurs LXC en production
 - 🌍 Basé en **Belgique**
 
