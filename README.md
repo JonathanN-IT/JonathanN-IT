@@ -2,7 +2,7 @@
 
 # Bonjour, je suis Jonathan 👋
 
-**Étudiant en cybersécurité · Analyste & Pentesteur · Administrateur Systèmes & Réseaux**
+**Étudiant · Administrateur Systèmes & Réseaux**
 
 *Électricien en reconversion — je construis mon expertise technique de A à Z.*
 
