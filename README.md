@@ -68,15 +68,6 @@ Infrastructure auto-hébergée sur serveur physique sous **Proxmox VE**.
 
 ---
 
-## 🔍 Outils OSINT & Pentest maîtrisés
-
-- **Reconnaissance** : Nmap, theHarvester, Sublist3r, Recon-ng, Amass
-- **OSINT personnes** : Maigret, Holehe, Sherlock, SpiderFoot
-- **Web** : Burp Suite, Nikto, OWASP ZAP
-- **Réseau** : Wireshark, Metasploit, Netcat
-
----
-
 ## 📊 Statistiques GitHub
 
 <div align="center">
