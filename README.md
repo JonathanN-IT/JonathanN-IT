@@ -1,13 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=220&section=header&text=Jonathan%20Nuttin&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=%C3%89tudiant%20%C2%B7%20Administrateur%20Syst%C3%A8mes%20%26%20R%C3%A9seaux&descAlignY=58&descSize=20&descColor=8892b0" width="100%"/>
+
 <div align="center">
 
-# Bonjour, je suis Jonathan 👋
-
-**Étudiant · Administrateur Systèmes & Réseaux**
-
-*Électricien en reconversion — je construis mon expertise technique de A à Z.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Homelab+Proxmox+%2F+Docker+%2F+LXC;7+conteneurs+LXC+en+production;IFAPME+Cybersécurité+dès+sept.+2026;Reconversion+%E2%86%92+Admin+Sys+%26+Réseaux)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-nuttin-it)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rjnuttin@gmail.com)
+[![Profil views](https://komarev.com/ghpvc/?username=JonathanN-IT&color=00d4ff&style=for-the-badge&label=VUES)](https://github.com/JonathanN-IT)
 
 </div>
 
@@ -25,9 +24,12 @@
 
 ## 🛠️ Stack technique
 
+<div align="center">
+
 ### Systèmes & Virtualisation
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
@@ -36,17 +38,14 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=flat-square&logo=pi-hole&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
-### Cybersécurité & OSINT
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
 
 ### Scripting & Dev
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+</div>
 
 ---
 
@@ -73,14 +72,12 @@ Infrastructure auto-hébergée sur serveur physique sous **Proxmox VE**.
 
 <div align="center">
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=JonathanN-IT&show_icons=true&theme=dark&locale=fr&hide_border=true)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=JonathanN-IT&show_icons=true&theme=tokyonight&hide_border=true&locale=fr&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0)
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanN-IT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8892b0&layout=compact)
 
 </div>
 
 ---
 
-<div align="center">
-
-*"Chaque service, chaque configuration, chaque bug résolu — c'est de la compétence acquise."*
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
