@@ -17,7 +17,6 @@
 
 - 🔄 En reconversion depuis l'électricité vers l'**administration réseau & systèmes**
 - 🎓 Formation en cours : **Administrateur Réseau & Systèmes** — spécialisation virtualisation & cybersécurité
-- 🔒 Passionné par le **pentest**, l'**OSINT** et la sécurité offensive
 - 🏠 Je maintiens un **homelab Proxmox** complet avec 7 conteneurs LXC en production
 - 🌍 Basé en **Belgique**
 
