@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Homelab+Proxmox+%2F+Docker+%2F+LXC;7+conteneurs+LXC+en+production;IFAPME+Cybersécurité+dès+sept.+2026;Reconversion+%E2%86%92+Admin+Sys+%26+Réseaux)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-nuttin-it)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rjnuttin@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jon@rippers.be)
 [![Profil views](https://komarev.com/ghpvc/?username=JonathanN-IT&color=00d4ff&style=for-the-badge&label=VUES)](https://github.com/JonathanN-IT)
 
 </div>
